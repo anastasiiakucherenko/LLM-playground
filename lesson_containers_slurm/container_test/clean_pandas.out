@@ -1,0 +1,28 @@
+Starting clean compartmentalized job...
+Running my_pandas_analysis.py in container...
+=== Pandas Analysis Test ===
+Pandas version: 2.1.1
+NumPy version: 1.24.4
+
+Dataframe shape: (4, 4)
+Columns: ['text', 'id', 'score', 'category']
+
+First 2 rows:
+           text  id  score  category
+0   Hello world   1    0.8  greeting
+1  Data science   2    0.9   science
+
+Basic stats:
+count    4.000000
+mean     0.837500
+std      0.110868
+min      0.700000
+25%      0.775000
+50%      0.850000
+75%      0.912500
+max      0.950000
+Name: score, dtype: float64
+
+=== Analysis Complete ===
+Container execution finished.
+Job completed.

@@ -1,0 +1,7 @@
+Testing pandas in container...
+Pandas version: 2.1.1
+Test dataframe:
+    text  id
+0  Hello   1
+1  World   2
+Success!
