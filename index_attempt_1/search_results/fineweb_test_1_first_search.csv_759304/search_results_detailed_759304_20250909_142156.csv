@@ -1,0 +1,1 @@
+timestamp,row_id,segment_id,segment_text,query_type,query_time_ms,es_took_ms,total_hits,max_score,timed_out,error,top_5_hits
